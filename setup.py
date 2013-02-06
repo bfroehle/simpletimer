@@ -16,7 +16,7 @@ setup(
     description='Timing functions and context manager',
     author='Bradley M. Froehle',
     author_email='brad.froehle@gmail.com',
-    license='BSD'
+    license='BSD',
     url='http://github.com/bfroehle/simpletimer',
     py_modules=['simpletimer'],
     classifiers=[
