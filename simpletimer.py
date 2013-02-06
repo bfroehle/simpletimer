@@ -19,8 +19,7 @@ import time
 __all__ = ['TicToc', 'tic', 'toc']
 
 class TicToc():
-    """
-    A timer which may be used once.
+    """A simple timing class.
 
     Examples
     --------
